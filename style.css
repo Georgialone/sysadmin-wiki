@@ -2,11 +2,11 @@ html {
     cursor: crosshair;
 }
 
-.hello_text {
+.hello-text {
   text-align: center;
 }
 
-.main_block {
+.main-block {
     padding-top: 50px;
     padding-left: 50px;
     font-size: 18px;
