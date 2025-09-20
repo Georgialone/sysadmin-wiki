@@ -1,2 +1,2 @@
 # sysadmin-wiki
-petwiki sysadmin 
+тяжело в учении легко в бою
