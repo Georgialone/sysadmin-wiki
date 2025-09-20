@@ -13,3 +13,7 @@ html {
     padding-left: 50px;
     font-size: 18px;
 }
+
+.repos-href {
+  color: gray; 
+}
