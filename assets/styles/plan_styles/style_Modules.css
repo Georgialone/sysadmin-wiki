@@ -7,33 +7,30 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-.head-a {
-  text-align: center;
+li {
+  padding-top: 4px;
+}
+
+.head-module {
+  width: 1200px;
+  padding-left: 50px;
+  padding-top: 10px;
+  font-size: 22px;
+  font-weight: bold;
   color: white;
 }
 
 .btn {
-  width: 120px;             /* ширина квадрата */
-  height: 48px;            /* высота — равна ширине */
-  display: inline-flex;    /* для удобного центрирования содержимого */
-  align-items: center;     /* вертикальное центрирование */
-  justify-content: center; /* горизонтальное центрирование */
-  text-align: center;
-  padding: 0;              /* чтобы не ломало размеры */
-  border: 3px solid #333;  /* пример рамки */
-  background: #ff1100ad;        /* пример фона */
-  box-sizing: border-box;  /* учитывает рамку в размерах */
-  border-radius: 4px;      /* убрать или изменить при необходимости */
   font-size: 14px;
   text-decoration: none;
-  color: #333;
 }
 
 .module-A-content {
-  text-align: center;
+  margin: auto;
   color: white;
-  padding-left: 20px;
   padding-top: 50px;
+  padding-left: 80px;
+
 }
 
 a {
@@ -43,4 +40,8 @@ a {
 .history {
   font-family: "Open Sans", sans-serif;
   color: white;
+}
+
+.module-A-practic {
+  /*  */
 }

@@ -1,0 +1,36 @@
+html {
+  cursor: crosshair;
+  color: white;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+body {
+  background-color: #333;
+  font-family: "Open Sans", sans-serif;    
+}
+
+.border-main {
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 80px;
+}
+
+.head-wiki {
+    width: 1200px;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.text-main {
+    width: 950px;
+}
+
+nav {
+    padding-top: 5px;
+}
