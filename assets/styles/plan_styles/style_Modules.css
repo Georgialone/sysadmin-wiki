@@ -1,5 +1,5 @@
 html {
-    cursor: crosshair;
+  cursor: crosshair;
 }
 
 body {
@@ -8,8 +8,8 @@ body {
 }
 
 .head-a {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
 
 .btn {
@@ -30,14 +30,14 @@ body {
 }
 
 .module-A-content {
-    text-align: center;
-    color: white;
-    padding-left: 20px;
-    padding-top: 50px;
+  text-align: center;
+  color: white;
+  padding-left: 20px;
+  padding-top: 50px;
 }
 
 a {
-    color: red;
+  color: red;
 }
 
 .history {
