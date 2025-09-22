@@ -2,8 +2,14 @@ html {
     cursor: crosshair;
 }
 
-.head-a{
+body {
+  background-color: #333;
+  font-family: "Open Sans", sans-serif;
+}
+
+.head-a {
     text-align: center;
+    color: white;
 }
 
 .btn {
@@ -15,7 +21,7 @@ html {
   text-align: center;
   padding: 0;              /* чтобы не ломало размеры */
   border: 3px solid #333;  /* пример рамки */
-  background: #fff;        /* пример фона */
+  background: #ff1100ad;        /* пример фона */
   box-sizing: border-box;  /* учитывает рамку в размерах */
   border-radius: 4px;      /* убрать или изменить при необходимости */
   font-size: 14px;
@@ -24,6 +30,17 @@ html {
 }
 
 .module-A-content {
+    text-align: center;
+    color: white;
     padding-left: 20px;
     padding-top: 50px;
+}
+
+a {
+    color: red;
+}
+
+.history {
+  font-family: "Open Sans", sans-serif;
+  color: white;
 }

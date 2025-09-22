@@ -1,7 +1,16 @@
 /* 20-10-25 */
 
 html {
-    cursor: crosshair;
+  cursor: crosshair;
+}
+
+body {
+  background-color: #333;
+  font-family: "Open Sans", sans-serif;
+}
+
+.head-site {
+  color: white;
 }
 
 .hello-text {
@@ -9,11 +18,14 @@ html {
 }
 
 .main-block {
-    padding-top: 50px;
-    padding-left: 50px;
-    font-size: 18px;
+  padding-top: 100px;
+}
+
+.plan-list {
+  text-align: center;
 }
 
 .repos-href {
   color: gray; 
 }
+
