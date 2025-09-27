@@ -1,2 +1,2 @@
 # sysadmin-wiki
-тяжело в учении легко в бою
+Сайт - https://georgialone.github.io/sysadmin-wiki/
